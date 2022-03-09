@@ -7,3 +7,4 @@ license = "MIT OR Apache-2.0"
 repository = "https://github.com/studio-citrus/kiyomi"
 
 [dependencies]
+legion = "0.4.0"

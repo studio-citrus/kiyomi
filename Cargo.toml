@@ -9,3 +9,4 @@ readme = "README.md"
 repository = "https://github.com/studio-citrus/kiyomi"
 
 [dependencies]
+kiyomi_ecs = { path = "crates/kiyomi_ecs" }
